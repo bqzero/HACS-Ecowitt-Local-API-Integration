@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="custom_components/gw_livedata/logo.png" alt="Weather Gateway Live Data" width="200">
+  <img src="custom_components/gw_livedata/brand/large.png" alt="Weather Gateway Live Data" width="200">
 </p>
 
 # Weather Gateway Live Data
