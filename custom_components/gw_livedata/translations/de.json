@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Wetter-Gateway",
+        "description": "IP-Adresse des Gateways eingeben.",
+        "data": {
+          "host": "IP-Adresse"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Verbindung zum Gateway fehlgeschlagen.",
+      "invalid_response": "Unerwartete Antwort vom Gateway."
+    },
+    "abort": {
+      "already_configured": "Dieses Gateway ist bereits eingerichtet."
+    }
+  }
+}
